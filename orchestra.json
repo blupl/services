@@ -1,0 +1,13 @@
+{
+    "name": "Services",
+    "description": "Service Provider Extension",
+    "author": "Ahsanul Kabir",
+    "url": "https://github.com/",
+    "version": "1.0.0",
+    "config": {
+        "handles": "Services"
+    },
+    "provides": [
+        "Blupl\\Services\\ServicesServiceProvider"
+    ]
+}
